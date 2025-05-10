@@ -8,7 +8,7 @@ public class CarRentalProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CarRentalProjectApplication.class, args);
-		System.out.println("Car Rental System.....!");
+		System.out.println(" Hello Car Rental System.....!");
 	}
 
 }
